@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/Sirupsen/logrus"
-	"github.com/bakins/logrus-middleware"
+	"github.com/Cybraics/logrus-middleware"
+	"github.com/sirupsen/logrus"
 )
 
 func main() {
